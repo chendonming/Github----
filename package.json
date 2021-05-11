@@ -1,0 +1,16 @@
+{
+  "name": "githubyouhua",
+  "version": "1.0.0",
+  "description": "Github连接优化",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "hosts-group": "^0.1.1",
+    "qs": "^6.10.1"
+  }
+}
